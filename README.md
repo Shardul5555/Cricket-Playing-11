@@ -5,3 +5,23 @@ Scoring an average of 210 runs in batting performances across multiple matches. 
 
 ## Mock Up Playing 11 Dashboard
 <img width="653" alt="Playing 11 Dash" src="https://github.com/user-attachments/assets/8908eda8-9a75-4ca0-93ed-fb6ce47cfd61" />
+
+## Objectives
+
+- Select the best 11 players based on batting and bowling performance.
+- Achieve an average score of 210 runs and defend 145 runs.
+  
+### Features
+
+- Batting statistics
+- Bowling statistics
+- Interactive filters and comparisons
+
+## Data Sources
+
+- Player statistics (batting, bowling, and fielding)
+- Historical match data
+
+## Conclusion
+
+By utilizing Power BI, this dashboard will aid in selecting the optimal team based on data-driven insights.
